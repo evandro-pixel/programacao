@@ -1,5 +1,5 @@
 body {
-    background-color: cadetblue;
+    background-color: url('img/bg-desktop.webp');
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -34,3 +34,4 @@ footer p {
     text-align: center;
     background-color: whitesmoke
 }
+
